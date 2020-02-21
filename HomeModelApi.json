@@ -1,17 +1,6 @@
 {
-"banners":[ {
-  "id" : 12312,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png"
-   },
-   {
-  "id" : 123213,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/image.jpg"},
-   {
-  "id" : 1231242,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png"
-   }
- ],
- "category" : [
+"banners": "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png",
+"category" : [
    {
    "id" : 12321,
    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png"
